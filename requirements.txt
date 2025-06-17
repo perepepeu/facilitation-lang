@@ -1,0 +1,7 @@
+# Linguagem Facilitation - Interpretador
+# Não há dependências externas, apenas Python padrão
+
+# Para desenvolvimento (opcional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0 
