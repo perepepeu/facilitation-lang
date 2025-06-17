@@ -4,7 +4,7 @@ Facilitation Language - Uma linguagem de programação em português
 
 __version__ = "1.0.0"
 __author__ = "Pedro"
-__email__ = "seu-email@exemplo.com"
+__email__ = "pedrohenriquerios00@gmail.com"
 
 from .lexer import Lexer, Token, TokenType
 from .parser import Parser, ASTNode, NodeType
